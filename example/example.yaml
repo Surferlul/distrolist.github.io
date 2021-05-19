@@ -16,7 +16,7 @@ desktop:
   - GNOME
 package-manager: 
   - apt
-service-manager:
+init-system:
   - sysvinit
   - systemd
 architecture:
